@@ -1,4 +1,5 @@
-<? php
- print "Welcome/n"
- print `/usr/sbin/ifconfig` 
+<pre>
+<?php 
+print `/usr/sbin/ifconfig`;
 ?>
+</pre>
